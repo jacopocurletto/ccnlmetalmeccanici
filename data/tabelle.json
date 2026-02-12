@@ -1,0 +1,30 @@
+{
+    "anno": 2021,
+    "livelli": [
+      {
+        "livello": "1° livello",
+        "minimo": 2104.58,
+        "descrizione": "Operai generici"
+      },
+      {
+        "livello": "2° livello",
+        "minimo": 2167.45,
+        "descrizione": "Operai qualificati"
+      },
+      {
+        "livello": "3° livello",
+        "minimo": 2246.89,
+        "descrizione": "Operai specializzati"
+      },
+      {
+        "livello": "4° livello",
+        "minimo": 2356.12,
+        "descrizione": "Operai altamente specializzati"
+      },
+      {
+        "livello": "5° livello",
+        "minimo": 2489.76,
+        "descrizione": "Quadri intermedi"
+      }
+    ]
+  }

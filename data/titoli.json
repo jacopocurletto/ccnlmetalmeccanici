@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "slug": "sistema-relazioni-sindacali",
+      "titolo": "Sistema di Relazioni Sindacali",
+      "descrizione": "Disciplina le modalità di relazione tra organizzazioni sindacali e datoriali",
+      "articoli": [1, 2, 3, 4, 5]
+    },
+    {
+      "id": 2,
+      "slug": "classificazione-personale",
+      "titolo": "Classificazione del Personale",
+      "descrizione": "Definisce i livelli di inquadramento e le declaratorie professionali",
+      "articoli": [20, 21, 22, 23]
+    },
+    {
+      "id": 3,
+      "slug": "retribuzione",
+      "titolo": "Retribuzione",
+      "descrizione": "Disciplina elementi retributivi, minimi contrattuali e indennità",
+      "articoli": [30, 31, 32, 33, 34]
+    },
+    {
+      "id": 4,
+      "slug": "orario-lavoro",
+      "titolo": "Orario di Lavoro",
+      "descrizione": "Regola orario normale, straordinario, turni e flessibilità",
+      "articoli": [40, 41, 42, 43]
+    }
+  ]

@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "numero": "Art. 1",
+      "titolo": "Campo di applicazione",
+      "titoloId": 1,
+      "contenuto": "Il presente contratto collettivo nazionale di lavoro si applica a tutte le imprese industriali metalmeccaniche e di installazione di impianti...",
+      "tag": ["applicazione", "campo"]
+    },
+    {
+      "id": 20,
+      "numero": "Art. 20",
+      "titolo": "Livelli di inquadramento",
+      "titoloId": 2,
+      "contenuto": "I lavoratori sono inquadrati in 9 livelli in base alle mansioni svolte e alle competenze richieste...",
+      "tag": ["livelli", "inquadramento"]
+    },
+    {
+      "id": 30,
+      "numero": "Art. 30",
+      "titolo": "Minimi contrattuali",
+      "titoloId": 3,
+      "contenuto": "I minimi retributivi mensili per ciascun livello sono definiti nelle tabelle allegate...",
+      "tag": ["retribuzione", "minimi"]
+    }
+  ]
